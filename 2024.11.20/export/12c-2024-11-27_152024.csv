@@ -1,0 +1,89 @@
+﻿ID;Name;Firstname;Lastname;Gender;Subject;Grades
+12c-0;"Mikorka Lenke";Lenke;Mikorka;F;math;"3, 5"
+12c-0;"Mikorka Lenke";Lenke;Mikorka;F;history;
+12c-0;"Mikorka Lenke";Lenke;Mikorka;F;biology;1
+12c-0;"Mikorka Lenke";Lenke;Mikorka;F;chemistry;"5, 4, 4"
+12c-0;"Mikorka Lenke";Lenke;Mikorka;F;physics;"5, 4"
+12c-0;"Mikorka Lenke";Lenke;Mikorka;F;informatics;2
+12c-0;"Mikorka Lenke";Lenke;Mikorka;F;alchemy;
+12c-0;"Mikorka Lenke";Lenke;Mikorka;F;astrology;
+12c-1;"Patta Piroska";Piroska;Patta;F;math;"1, 5, 2, 3, 1"
+12c-1;"Patta Piroska";Piroska;Patta;F;history;1
+12c-1;"Patta Piroska";Piroska;Patta;F;biology;"4, 3, 3"
+12c-1;"Patta Piroska";Piroska;Patta;F;chemistry;
+12c-1;"Patta Piroska";Piroska;Patta;F;physics;"2, 2, 5, 4, 5"
+12c-1;"Patta Piroska";Piroska;Patta;F;informatics;"4, 5, 2, 1"
+12c-1;"Patta Piroska";Piroska;Patta;F;alchemy;2
+12c-1;"Patta Piroska";Piroska;Patta;F;astrology;"2, 5, 1"
+12c-2;"Mikorka Piroska";Piroska;Mikorka;F;math;"4, 3, 3"
+12c-2;"Mikorka Piroska";Piroska;Mikorka;F;history;"5, 5, 2, 4"
+12c-2;"Mikorka Piroska";Piroska;Mikorka;F;biology;
+12c-2;"Mikorka Piroska";Piroska;Mikorka;F;chemistry;"2, 4, 2, 2"
+12c-2;"Mikorka Piroska";Piroska;Mikorka;F;physics;
+12c-2;"Mikorka Piroska";Piroska;Mikorka;F;informatics;
+12c-2;"Mikorka Piroska";Piroska;Mikorka;F;alchemy;
+12c-2;"Mikorka Piroska";Piroska;Mikorka;F;astrology;5
+12c-3;"Ének Elemér";Elemér;Ének;M;math;"3, 2"
+12c-3;"Ének Elemér";Elemér;Ének;M;history;
+12c-3;"Ének Elemér";Elemér;Ének;M;biology;"5, 1, 4, 3"
+12c-3;"Ének Elemér";Elemér;Ének;M;chemistry;"5, 2, 3, 2, 3"
+12c-3;"Ének Elemér";Elemér;Ének;M;physics;"5, 1, 2, 4, 1"
+12c-3;"Ének Elemér";Elemér;Ének;M;informatics;"1, 3"
+12c-3;"Ének Elemér";Elemér;Ének;M;alchemy;
+12c-3;"Ének Elemér";Elemér;Ének;M;astrology;"3, 2, 5, 3, 1"
+12c-4;"Riz Rita";Rita;Riz;F;math;
+12c-4;"Riz Rita";Rita;Riz;F;history;4
+12c-4;"Riz Rita";Rita;Riz;F;biology;"4, 5, 2, 3"
+12c-4;"Riz Rita";Rita;Riz;F;chemistry;
+12c-4;"Riz Rita";Rita;Riz;F;physics;"5, 3"
+12c-4;"Riz Rita";Rita;Riz;F;informatics;"2, 5"
+12c-4;"Riz Rita";Rita;Riz;F;alchemy;"2, 3, 1, 2, 5"
+12c-4;"Riz Rita";Rita;Riz;F;astrology;"3, 5, 5"
+12c-5;"Zsíros B. Dóra";B.;Zsíros;F;math;
+12c-5;"Zsíros B. Dóra";B.;Zsíros;F;history;"1, 1, 2, 3, 5"
+12c-5;"Zsíros B. Dóra";B.;Zsíros;F;biology;"1, 4, 3"
+12c-5;"Zsíros B. Dóra";B.;Zsíros;F;chemistry;
+12c-5;"Zsíros B. Dóra";B.;Zsíros;F;physics;"3, 1, 4, 4"
+12c-5;"Zsíros B. Dóra";B.;Zsíros;F;informatics;4
+12c-5;"Zsíros B. Dóra";B.;Zsíros;F;alchemy;"3, 3, 4"
+12c-5;"Zsíros B. Dóra";B.;Zsíros;F;astrology;"1, 2, 5, 1"
+12c-6;"Remek Áron";Áron;Remek;M;math;3
+12c-6;"Remek Áron";Áron;Remek;M;history;"5, 3, 1"
+12c-6;"Remek Áron";Áron;Remek;M;biology;"2, 1, 4, 3, 2"
+12c-6;"Remek Áron";Áron;Remek;M;chemistry;"2, 3"
+12c-6;"Remek Áron";Áron;Remek;M;physics;"5, 1, 1, 5"
+12c-6;"Remek Áron";Áron;Remek;M;informatics;"5, 4, 5, 1"
+12c-6;"Remek Áron";Áron;Remek;M;alchemy;"5, 4, 1, 4"
+12c-6;"Remek Áron";Áron;Remek;M;astrology;"4, 2, 3, 5, 2"
+12c-7;"Budipa Mercédesz";Mercédesz;Budipa;F;math;"1, 5, 2, 2, 4"
+12c-7;"Budipa Mercédesz";Mercédesz;Budipa;F;history;2
+12c-7;"Budipa Mercédesz";Mercédesz;Budipa;F;biology;"4, 1, 5, 4, 4"
+12c-7;"Budipa Mercédesz";Mercédesz;Budipa;F;chemistry;4
+12c-7;"Budipa Mercédesz";Mercédesz;Budipa;F;physics;1
+12c-7;"Budipa Mercédesz";Mercédesz;Budipa;F;informatics;"5, 1"
+12c-7;"Budipa Mercédesz";Mercédesz;Budipa;F;alchemy;
+12c-7;"Budipa Mercédesz";Mercédesz;Budipa;F;astrology;5
+12c-8;"Fekete Piroska";Piroska;Fekete;F;math;
+12c-8;"Fekete Piroska";Piroska;Fekete;F;history;"5, 5, 5, 5"
+12c-8;"Fekete Piroska";Piroska;Fekete;F;biology;"5, 3, 3"
+12c-8;"Fekete Piroska";Piroska;Fekete;F;chemistry;"4, 4"
+12c-8;"Fekete Piroska";Piroska;Fekete;F;physics;"1, 4, 1, 2"
+12c-8;"Fekete Piroska";Piroska;Fekete;F;informatics;
+12c-8;"Fekete Piroska";Piroska;Fekete;F;alchemy;"5, 5, 5, 5"
+12c-8;"Fekete Piroska";Piroska;Fekete;F;astrology;
+12c-9;"Békés Szilárd";Szilárd;Békés;M;math;4
+12c-9;"Békés Szilárd";Szilárd;Békés;M;history;
+12c-9;"Békés Szilárd";Szilárd;Békés;M;biology;
+12c-9;"Békés Szilárd";Szilárd;Békés;M;chemistry;"5, 2, 3"
+12c-9;"Békés Szilárd";Szilárd;Békés;M;physics;"5, 1"
+12c-9;"Békés Szilárd";Szilárd;Békés;M;informatics;"4, 1, 5, 5, 2"
+12c-9;"Békés Szilárd";Szilárd;Békés;M;alchemy;"2, 5, 4, 4, 5"
+12c-9;"Békés Szilárd";Szilárd;Békés;M;astrology;"5, 4, 1, 2"
+12c-10;"Bekre Pál";Pál;Bekre;M;math;"3, 1, 3, 1, 1"
+12c-10;"Bekre Pál";Pál;Bekre;M;history;
+12c-10;"Bekre Pál";Pál;Bekre;M;biology;"1, 5, 3"
+12c-10;"Bekre Pál";Pál;Bekre;M;chemistry;
+12c-10;"Bekre Pál";Pál;Bekre;M;physics;"4, 3"
+12c-10;"Bekre Pál";Pál;Bekre;M;informatics;
+12c-10;"Bekre Pál";Pál;Bekre;M;alchemy;"3, 1"
+12c-10;"Bekre Pál";Pál;Bekre;M;astrology;5
